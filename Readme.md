@@ -1,4 +1,4 @@
-# Hyperbolic Time Chmber
+# 정신과 시간의 방(Hyperbolic Time Chamber) 정리
 
 아래 양식 처럼 배운 것을 정리하면 됩니다. Readme.md 파일은 자유 형식입니다. 
 Dictionary.md 파일은 알게 된 것과 모르는 것을 정리해서 정리하시면 됩니다.
