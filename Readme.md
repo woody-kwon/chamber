@@ -1,5 +1,14 @@
 # Hyperbolic Time Chmber
 
+아래 양식 처럼 배운 것을 정리하면 됩니다. Readme.md 파일은 자유 형식입니다. 
+Dictionary.md 파일은 알게 된 것과 모르는 것을 정리해서 정리하시면 됩니다.
+
+이 프로젝트 오른쪽에 fork 버튼을 눌러 포크를 딴 후에 전체 내용은 지우시고 자신만의 컨텐츠를 채워가면 됩니다. [마크 다운 문법](https://gist.github.com/ihoneymon/652be052a0727ad59601)  
+
+fork를 해 가시면 제가 주기적으로 확인해서 SDSACT 내의 Hyperbolic Time Chamber 프로젝트에 링크를 걸도록 하겠습니다.
+
+SDS ACT 정신과 시간의 방 : https://github.com/SDSACT/hyperbolic_time_chamber 
+
 ## 1. Java8 in Action
 
 ### 1.1. 자바 8 개론
