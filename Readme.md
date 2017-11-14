@@ -10,4 +10,4 @@
 - 자바가 (기존 버전 개발자들이 곤란해함에도) 진화해야 하는 이유
 
 ### Chapter 2. 동작 파라미터화(behavior parameterization) 코드 전달하기
-### Chapter 3. 람다 
+### Chapter 3. 람다 표현식
